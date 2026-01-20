@@ -1,0 +1,5 @@
+{
+  "name": "Treasury Land Value Evaluator",
+  "description": "A decision support system for evaluating Treasury Department land development proposals using Weighted Scoring Models and Real Estate theories.",
+  "requestFramePermissions": []
+}
